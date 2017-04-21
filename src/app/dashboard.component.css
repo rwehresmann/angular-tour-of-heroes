@@ -31,7 +31,7 @@ h4 {
   text-align: center;
   color: #eee;
   max-height: 120px;
-  min-width: 120px;
+  min-width: 200px;
   background-color: #607D8B;
   border-radius: 2px;
 }
@@ -56,6 +56,6 @@ h4 {
     margin: 0;
   }
   .module {
-    min-width: 60px;
+    min-width: 120px;
   }
 }
